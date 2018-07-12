@@ -1,4 +1,4 @@
-var getTime = function() {
+var getTime = function() { 
     return new Date().getTime() / 1000.0;
 }
 
